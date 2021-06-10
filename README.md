@@ -34,8 +34,8 @@ python snapshotdepth_trainer.py \
 ## Checkpoint and captured data
 
 An example of a trained checkpoint and a trained DOE is available from
-GoogleDrive ([checkpoint](https://drive.google.com/file/d/18qxoeI6E_XkTW8zfI3dldHdl5H8WQRry/view?usp=sharing)
-and [image](https://drive.google.com/file/d/18tCZy3CpYMXNrkZWBLf0ezB4yFA8NDkr/view?usp=sharing)).
+GoogleDrive ([checkpoint](https://drive.google.com/file/d/1ZdenyEUhFq497QKQLI0VgIXYfLkMI778/view?usp=sharing)
+and [image](https://drive.google.com/file/d/1rW6TspPHvpJSGFvxF4eP_gxroLy7Ico7/view?usp=sharing)).
 
 ## How to run the inference code on a real captured data
 
@@ -58,7 +58,7 @@ Example input and output:
 ## Raw data for the fabricated DOE
 
 The design for the fabricated DOE is
-available [here](https://drive.google.com/file/d/181pppNSRQLq5nvTZNmuqDQvr1izfuepX/view?usp=sharing). Unit is in meter,
+available [here](https://drive.google.com/file/d/1kQtJn0rgH26193gOLoTiOfz8EKXZLIn4/view?usp=sharing). Unit is in meter,
 and the pixel size is 1&mu;m.
 
 ## Citation
